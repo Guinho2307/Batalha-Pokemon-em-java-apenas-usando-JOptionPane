@@ -23,7 +23,7 @@ public class Main {
      */
     public static void main(String[] args) {
         
-        JOptionPane.showMessageDialog(null, "", "Seja Bem vindo ao Duelo de Pokemon. ", JOptionPane.INFORMATION_MESSAGE, new ImageIcon ("C:\\Trabalho\\img\\jogador1.png"));
+        JOptionPane.showMessageDialog(null, "", "Seja Bem vindo ao Duelo de Pokemon. ", JOptionPane.INFORMATION_MESSAGE, new ImageIcon ("...\\img\\jogador1.png"));
        
 
         
