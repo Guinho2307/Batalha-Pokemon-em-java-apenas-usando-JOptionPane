@@ -177,9 +177,9 @@ public class Main {
         }else {
                 resultado = "Atributo Inválido ";
                 }
-        JOptionPane.showMessageDialog(null, "", "QUE COMEÇE A BATALHA ", JOptionPane.INFORMATION_MESSAGE, new ImageIcon ("C:\\Trabalho\\img\\DUELO.png"));
+        JOptionPane.showMessageDialog(null, "", "QUE COMEÇE A BATALHA ", JOptionPane.INFORMATION_MESSAGE, new ImageIcon ("...\\img\\DUELO.png"));
         
-         JOptionPane.showMessageDialog(null, resultado, "Duelo de Pokemon", JOptionPane.INFORMATION_MESSAGE, new ImageIcon ("C:\\Trabalho\\img\\pokebola.png"));
+         JOptionPane.showMessageDialog(null, resultado, "Duelo de Pokemon", JOptionPane.INFORMATION_MESSAGE, new ImageIcon ("...\\img\\pokebola.png"));
 
 
        
